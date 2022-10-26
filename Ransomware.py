@@ -2,7 +2,7 @@
 # "Github e52x"
 # "101010"
 # "BLACKXPOLIT IDXP"
-# " IDXP "
+# " TEAM IDXP "
 import tkinter as tk
 
 def countdown(count):
