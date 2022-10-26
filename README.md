@@ -1,3 +1,5 @@
+# Baca Dulu Biar Paham Njg
+
 # Ransomware Komputer
 
 # Apa Itu Ransomware
@@ -13,3 +15,8 @@
 # DI SITU ADA ALAT RANSOMWARE SAYA TAPI DI BIKIN DI PYTHON
 
 # RESIKO CUMA   LOCKSCREEN 1 JAM 
+
+# Cara Kerja Ransomware Tunggu Korban Menginstall  Ransomware Tersebut !
+
+
+# SAYA TIDAK BERTANGGUNG JAWAB ATAS  PERBUATAN ANDA !
